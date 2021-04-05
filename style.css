@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    background-color: deeppink;
+}
+
+div{
+    width: 480px;
+    margin: 5% auto;
+}
+
+canvas{
+    background-color: white;
+    border: 1 px solid black;
+}
+
+button{
+    width: 70px;
+    height: 25px;
+    border-radius: 6px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    cursor: pointer;
+}
